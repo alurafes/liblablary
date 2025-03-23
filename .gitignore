@@ -34,3 +34,4 @@ build/
 
 /liblablary.mv.db
 /liblablary.trace.db
+/src/main/resources/static/
